@@ -1,12 +1,15 @@
 # 01 — Variables
 # TODO: compléter les affectations et manipulations demandées dans README.md
 
-a_entier = None  # TODO: un int
-b_flottant = None  # TODO: un float
-c_chaine = None  # TODO: une str
-liste = None  # TODO: une list
-mon_tuple = None  # TODO: un tuple
-mon_dict = None  # TODO: un dict
+a_entier = 5  # TODO: un int
+b_flottant = 5.5  # TODO: un float
+c_chaine = "5"  # TODO: une str
+liste = [5, 5.5]  # TODO: une list
+mon_tuple = (5, 5.5)  # TODO: un tuple
+mon_dict = {
+    "premier": 5,
+    "second": 5.5
+}  # TODO: un dict
 
 if __name__ == "__main__":
     print("Valeurs:", a_entier, b_flottant, c_chaine, liste, mon_tuple, mon_dict)
