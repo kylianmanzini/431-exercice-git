@@ -1,3 +1,6 @@
+
+<img width="638" height="478" alt="image" src="https://github.com/user-attachments/assets/3d74ef1a-1acf-4c2a-9f9c-f074ee04641b" />
+
 # Exercice d'utilisation de Git et GitHub
 
 ## Etape 1: Cloner le dépôt
