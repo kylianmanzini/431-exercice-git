@@ -1,10 +1,10 @@
 # Exercice d'utilisation de Git et GitHub
 
 ## Etape 1: Cloner le dépôt
-Cloner le dépôt GitHub sur votre machine locale en utilisant la commande git clone suivie de l'URL du dépôt.
+Cloner le dépôt GitHub sur votre machine locale en utilisant la commande `git clone` suivie de l'URL du dépôt.
 
 ## Etape 2: Créer une nouvelle branche
-Créer une nouvelle branche pour votre travail avec la commande git checkout -b nom_de_votre_branche.
+Créer une nouvelle branche pour votre travail avec la commande `git checkout -b <nom_de_votre_branche>`.
 
 *Votre branche doit suivre la convention de nommage: nom_prenom*
 
@@ -32,7 +32,8 @@ Lorsque vous avez terminé vos modifications et vos commits, pousser votre branc
 
 Ce module regroupe des exercices progressifs pour valider les notions de base en Python. Chaque dossier contient:
 - `README.md`: théorie synthétique, objectifs et consignes.
-- `exercice.py`: squelette à compléter avec TODOs et un petit lanceur.
+- `exercice.py`: squelette à compléter avec TODOs.
+- `theorie.md`: explications et exemples.
 
 ## Plan des exercices
 1. Variables
