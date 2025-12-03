@@ -1,4 +1,4 @@
-
+![Texte alternatif](https://i.pinimg.com/736x/d0/55/25/d05525c2e154fe29549317b33ea71737.jpg)
 )
 # Exercice d'utilisation de Git et GitHub
 
