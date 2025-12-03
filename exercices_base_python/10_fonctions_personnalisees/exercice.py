@@ -4,12 +4,13 @@
 
 def aire_rectangle(l, h):
     # TODO
-    return None
+    return l *h
 
 def saluer(nom):
     # TODO: retourner une chaîne
-    return None
+    return f"Bonjour,{nom}"
 
 if __name__ == "__main__":
     print(aire_rectangle(3, 4))
     print(saluer("Alice"))
+
