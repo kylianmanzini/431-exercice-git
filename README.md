@@ -10,7 +10,7 @@ Créer une nouvelle branche pour votre travail avec la commande git checkout -b 
 
 Utilisez la commande `git push` pour pousser la branche sur le dépôt distant après l'avoir créée localement.
 
-### Etape 3: Faire des modifications et pusher vos commits
+## Etape 3: Faire des modifications et pusher vos commits
 
 Le but est de faire un exercice de python, puis de commiter vos modifications sur votre branche.
 Vous pouvez donc modifier les fichiers dans le dossier `exercices_base_python` et séparer vos modifications en plusieurs commits logiques par dossier d'exercice.
