@@ -1,4 +1,4 @@
-!(8d7ad5b0e26ec49aec8c25dc63f4d549.jpg
+
 )
 # Exercice d'utilisation de Git et GitHub
 
