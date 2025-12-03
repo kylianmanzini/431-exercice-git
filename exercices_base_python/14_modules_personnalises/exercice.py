@@ -1,8 +1,16 @@
 # 14 — Modules personnalisés
 
-# TODO: créer un fichier outils.py avec carre(x) et l'importer ici
+# Import du module personnalisé outils
+from outils import carre, cube, est_positif, PI
 
 if __name__ == "__main__":
-    # from outils import carre
-    # print(carre(5))
-    pass
+    print("Utilisation du module outils:")
+    print(f"carre(5) = {carre(5)}")
+    print(f"cube(3) = {cube(3)}")
+    print(f"est_positif(-2) = {est_positif(-2)}")
+    print(f"est_positif(5) = {est_positif(5)}")
+    print(f"PI = {PI}")
+
+    # Import du module entier
+    import outils
+    print(f"\nVia import outils: outils.GRAVITE = {outils.GRAVITE}")
