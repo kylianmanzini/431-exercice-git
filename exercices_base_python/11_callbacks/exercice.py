@@ -3,7 +3,8 @@
 # TODO: implémenter appliquer(nums, f)
 
 def appliquer(nums, f):
-    # TODO
+    for num in nums:
+        print(f(num))
     return None
 
 if __name__ == "__main__":
