@@ -3,11 +3,14 @@
 # TODO: illustrer break/continue/pass
 
 def rechercher_premier_pair(nums):
-    # TODO: utiliser continue et break
-    return None
+    for i in nums:
+        if i is int: # Partie inutile, sert juste à utiliser continue
+            continue
+        if (i%2 == 0):
+            break #Mieux de juste faire return i
+    return i
 
 def a_implementer_plus_tard():
-    # TODO: laisser pass
     pass
 
 if __name__ == "__main__":
