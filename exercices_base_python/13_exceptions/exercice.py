@@ -4,7 +4,10 @@
 
 def convertir_en_int(s):
     # TODO: retourner un int ou None sur erreur
-    return None
+    try:
+        return int(s)
+    except ValueError:
+        return f"{s} ne peux pas être converti en int"
 
 if __name__ == "__main__":
     print(convertir_en_int("123"))
