@@ -3,8 +3,11 @@
 # TODO: entourer de try/except
 
 def convertir_en_int(s):
-    # TODO: retourner un int ou None sur erreur
-    return None
+    try:
+        conversion_int = int(s)
+    except ValueError:
+        return None
+    return conversion_int
 
 if __name__ == "__main__":
     print(convertir_en_int("123"))
