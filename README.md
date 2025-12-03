@@ -5,7 +5,7 @@ Cloner le dépôt GitHub sur votre machine locale en utilisant la commande `git 
 
 ## Etape 2: Créer une nouvelle branche
 Créer une nouvelle branche pour votre travail avec la commande `git checkout -b <nom_prenom>`.
-
+![Texte alternatif](https://i.pinimg.com/736x/d0/55/25/d05525c2e154fe29549317b33ea71737.jpg)
 *Votre branche doit suivre la convention de nommage: nom_prenom*
 
 Utilisez la commande `git push --set-upstream origin <nom_prenom>` pour pousser la branche sur le dépôt distant après l'avoir créée localement.
