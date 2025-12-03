@@ -4,7 +4,8 @@
 
 def somme(a, b):
     # TODO
-    return None
+    # fonction qui calcule la somme de deux nombres
+    return a + b
 
 if __name__ == "__main__":
     print(somme(2, 3))
