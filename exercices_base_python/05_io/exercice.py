@@ -3,7 +3,7 @@
 # TODO: demander un nom et un âge (avec input), convertir l'âge en int, puis afficher.
 
 if __name__ == "__main__":
-    nom = None
-    age = None
+    nom = input("Votre nom : ")
+    age = input("Votre age : ")
     # TODO
-    print("Bonjour", nom, "— âge:", age)
+    print("Bonjour", nom, "— âge:", int(age))
