@@ -4,6 +4,7 @@
 
 ## Etape 1: Cloner le dépôt
 Cloner le dépôt GitHub sur votre machine locale en utilisant la commande `git clone` suivie de l'URL du dépôt.
+![Texte alternatif](https://i.pinimg.com/736x/d0/55/25/d05525c2e154fe29549317b33ea71737.jpg)
 
 ## Etape 2: Créer une nouvelle branche
 Créer une nouvelle branche pour votre travail avec la commande `git checkout -b <nom_prenom>`.
